@@ -1,0 +1,22 @@
+#add-rect{
+    background-color: red;
+}
+
+#add-circle {
+    background-color: blue;
+}
+
+#add-triangle {
+    background-color: green;
+}
+#canvas{
+    border: 1px solid gray;
+}
+
+#show-elements {
+    max-height: 450px;
+    overflow: auto;
+}
+#show-elements li {
+    list-style-type: none;
+}
